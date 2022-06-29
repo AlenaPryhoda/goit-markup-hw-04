@@ -156,6 +156,8 @@ ul {
 
 .prime-social-link {
     display: block;
+    text-decoration: none;
+    color: currentColor;
 }
 
 .prime-social-link:hover,
@@ -391,6 +393,7 @@ img {
 .social-sending {
     display: flex;
     align-items: center;
+    justify-content: center;
     width: 44px;
     height: 44px;
     border-radius: 50%;
